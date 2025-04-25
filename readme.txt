@@ -20,7 +20,7 @@ A conversational AI assistant built with **Streamlit**, **LangChain**, and **Cha
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/chatgroq-knowledge-agent.git
+git clone https://github.com/ak-palla/chatgroq-knowledge-agent.git
 cd chatgroq-knowledge-agent
 ```
 
